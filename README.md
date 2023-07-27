@@ -13,3 +13,5 @@
 ```
 # 应用截图
 <img width="1680" alt="截屏2023-07-27 17 21 31" src="https://github.com/function1212as/chat-gpt/assets/104118092/51cfcda4-ac15-4dd9-aed5-13876cd6065a">
+<img width="1680" alt="截屏2023-07-27 17 21 20" src="https://github.com/function1212as/chat-gpt/assets/104118092/46233508-505a-4a78-908e-59677451b031">
+
