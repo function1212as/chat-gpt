@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkchat_gtp"]=self["webpackChunkchat_gtp"]||[]).push([[715],{7715:function(t,n,e){e.r(n),e.d(n,{default:function(){return s}});var r=e(3396);function u(t,n,e,u,a,c){const o=(0,r.up)("router-view");return(0,r.wg)(),(0,r.j4)(o)}var a={name:"xtx-Layout"},c=e(89);const o=(0,c.Z)(a,[["render",u]]);var s=o}}]);
+//# sourceMappingURL=715.1179019d.js.map
